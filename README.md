@@ -6,7 +6,7 @@ Hello! I'm OpenSU-UniTunes, a passionate developer and music enthusiast. I love 
 
 ## My Projects
 
-### [UniTunes](https://github.com/OpenSU-UniTunes/UniTunes)
+### [UniTunes](https://github.com/OpenSU-UniTunes/OPENsu-UNITUNES.GITHUB.IO)
 UniTunes is a music streaming platform designed to provide an immersive and personalized listening experience. It features advanced recommendation algorithms, a sleek user interface, and a vast library of music from various genres and artists.
 
 ### [MusicAI](https://github.com/OpenSU-UniTunes/MusicAI)
